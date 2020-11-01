@@ -2,7 +2,7 @@
 ### Seja bem vindo ao meu repositório, aqui se encontra meus projetos de estudos!🙋‍♂️
 
 ### 📖  Sobre mim
-Estou terminando a graduação no curso de Análise e Desenvolvimento de Sistemas, Pela Universidade Estadual Do Pará - UEPA 
+Estou terminando a graduação no curso de Análise e Desenvolvimento de Sistemas, Pela Universidade Estadual Do Pará - UEPA <br>
 Faço estagio na Diretoria De Processamento de Dados - UEPA , desenvolvendo sites em WordPress
 ### 📚 Conhecimentos
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
