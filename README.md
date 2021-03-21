@@ -21,7 +21,7 @@ Sou graduado no curso de Análise e Desenvolvimento de Sistemas, Pela Universida
 ![React Native](https://img.shields.io/badge/-React%20Native-45b8d8?style=flat-square&logo=react&logoColor=white)
 ### ⚙️ Estatísticas github
 <p align = "center">
- <img align="left" src="https://github-readme-stats.vercel.app/api?username=JoOLiverP&show_icons=true&theme=dracula" alt="Sumanth's Github Stats" width="60%">
+ <img align="left" src="https://github-readme-stats.vercel.app/api?username=JoOLiverP&show_icons=true&theme=dracula" alt="Sumanth's Github Stats" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoOLiverP&hide=java&layout=compact)](https://github.com/anuraghazra/github-readme-stats" width="30%" alt="Sumanth's Top Languages">
 </p>
