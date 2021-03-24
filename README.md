@@ -32,7 +32,3 @@ Sou graduado no curso de Análise e Desenvolvimento de Sistemas, Pela Universida
 <a href="https://jo-oliver-portfolio.vercel.app"><img src="https://img.shields.io/badge/-Website-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/j%C3%B3-oliveira-2756a5180/"><img src="https://img.shields.io/badge/-Linkedin-007ec6?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:joypinheiro63@gmail.com"><img src="https://img.shields.io/badge/-Gmail-F05032?style=flat-square&logo=gmail&logoColor=white"/></a>
-  
-
-
-<
