@@ -3,7 +3,7 @@
 </p>
 
 ### :man_technologist: Sobre mim
-Sou graduado no curso de Análise e Desenvolvimento de Sistemas, Pela Universidade Estadual Do Pará - UEPA, sou apaixonado por front-end, estou ativamente procurando oportunidades nesta área,atualmente foco meus estudos na Omnistack (Nodejs, Reactjs, React Native).
+Sou um desenvolvedor Front-end graduado em Análise e Desenvolvimento de Sistemas,foco meus estudos em Reactjs,React Native e Typescript.
 
 ### 📚 Conhecimentos
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
